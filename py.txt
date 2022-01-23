@@ -1,6 +1,6 @@
 #Header added for add function
 def add(x,y):
-    pass
+    return x+y
 #header added for subtract funtion
 def subtract(x,y):
     pass
