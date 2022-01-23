@@ -4,6 +4,7 @@ def add(x,y):
 #header added for subtract funtion
 def subtract(x,y):
     pass
+#header added for multiply function
 def multiply(x,y):
     pass
 def divide(x,y):
