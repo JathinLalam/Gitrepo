@@ -9,4 +9,4 @@ def multiply(x,y):
     return x*y
 #header added for division function
 def divide(x,y):
-    pass
+    return x/y   #added in branch1 of remote repository
